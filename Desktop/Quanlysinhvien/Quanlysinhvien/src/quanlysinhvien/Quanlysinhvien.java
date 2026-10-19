@@ -35,11 +35,10 @@ public class Quanlysinhvien {
         for (int i = 0; i < 3; i++) {
             System.out.print("SV " + (i + 1) + " -> ");
             danhSachSV[i].hienThiThongTin();
-          
-
         }
-        System.out.println("\n=== HOAN THANH NHAP DU LIEU ===");
+    }
+}
 
-    }  
-}   
     
+    
+
